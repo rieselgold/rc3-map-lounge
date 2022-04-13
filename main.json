@@ -298,7 +298,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"press SPACE to see the Timetable"
+                         "value":"press SPACE to open the Timetable in a new browser-tab."
                         }],
                  "type":"tilelayer",
                  "visible":true,
