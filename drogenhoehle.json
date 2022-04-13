@@ -167,24 +167,7 @@
          "draworder":"topdown",
          "id":85,
          "name":"drugbirds",
-         "objects":[
-                {
-                 "height":25.8027,
-                 "id":4,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"U0QTmBoER6rC4W0CJ7prZ2yeeUmsRQsHEKffN8rnn6rBKjPPQd"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":69.3729,
-                 "x":766.118,
-                 "y":1345.5
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
