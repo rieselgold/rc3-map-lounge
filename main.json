@@ -376,7 +376,35 @@
          "draworder":"topdown",
          "id":63,
          "name":"Leinwand",
-         "objects":[],
+         "objects":[
+                {
+                 "height":163,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":325,
+                 "x":543,
+                 "y":638
+                }, 
+                {
+                 "height":157.91,
+                 "id":4,
+                 "name":"Leinwand",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/divoc\/bb3"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":316.61,
+                 "x":547.2,
+                 "y":640.47
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -432,7 +460,7 @@
          "y":0
         }],
  "nextlayerid":85,
- "nextobjectid":3,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
