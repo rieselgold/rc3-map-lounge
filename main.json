@@ -396,7 +396,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/divoc\/bb3"
+                         "value":"https:\/\/streaming.media.ccc.de\/divoc\/embed\/bb3\/hls\/native"
                         }],
                  "rotation":0,
                  "type":"website",
