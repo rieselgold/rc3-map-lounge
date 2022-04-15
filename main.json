@@ -324,7 +324,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/pretalx.c3voc.de\/divoc-bb3\/schedule\/#2022-04-15"
+                         "value":"https:\/\/pretalx.c3voc.de\/divoc-bb3\/schedule\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
