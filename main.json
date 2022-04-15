@@ -386,10 +386,10 @@
                  "visible":true,
                  "width":325,
                  "x":543,
-                 "y":638
+                 "y":640
                 }, 
                 {
-                 "height":187,
+                 "height":183,
                  "id":4,
                  "name":"Leinwand",
                  "properties":[
@@ -401,8 +401,8 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":332.61,
-                 "x":539.2,
+                 "width":326.61,
+                 "x":542.2,
                  "y":617.47
                 }],
          "opacity":1,
