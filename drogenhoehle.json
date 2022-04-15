@@ -169,21 +169,21 @@
          "name":"Leinwand",
          "objects":[
                 {
-                 "height":252.07,
+                 "height":330,
                  "id":5,
                  "name":"Leinwand",
                  "properties":[
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/divoc\/bb3"
+                         "value":"https:\/\/streaming.media.ccc.de\/divoc\/embed\/bb3\/hls\/native"
                         }],
                  "rotation":0,
                  "type":"website",
                  "visible":true,
                  "width":586.76,
                  "x":514.55,
-                 "y":1045.1
+                 "y":996.1
                 }],
          "opacity":1,
          "type":"objectgroup",
