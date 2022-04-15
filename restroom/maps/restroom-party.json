@@ -36,7 +36,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/divoc\/embed\/bb3\/audio\/native"
+                 "value":"https:\/\/cdn.c3voc.de\/hls\/csh\/segment_Native.m3u8"
                 }],
          "type":"tilelayer",
          "visible":true,
