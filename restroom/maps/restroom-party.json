@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/main.json#start_carl"
+                 "value":"..\/..\/main.json#start_toilet"
                 }],
          "type":"tilelayer",
          "visible":true,
